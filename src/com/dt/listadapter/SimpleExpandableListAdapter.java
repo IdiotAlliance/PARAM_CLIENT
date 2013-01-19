@@ -27,6 +27,7 @@ public class SimpleExpandableListAdapter extends BaseExpandableListAdapter {
 		this.inflater = LayoutInflater.from(context);
 		this.contacts = contacts;
 		this.groups = groups;
+
 	}
 
 	@Override
